@@ -1,4 +1,4 @@
-# My Font
+# Infovìa
 
 [![][Fontbakery]](https://emiliograzzi.github.io/infovia/fontbakery/fontbakery-report.html)
 [![][Universal]](https://emiliograzzi.github.io/infovia/fontbakery/fontbakery-report.html)
@@ -20,7 +20,7 @@ Don't hesitate to create images!
 
 ## About
 
-Description of you and/or organisation goes here.
+Infovia was developed by [ID Matter](www.idmatter.eu)
 
 ## Building
 
@@ -36,13 +36,8 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
-
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+**8 July 2023. Version 1.003**
+- Googlefont sumbission
 
 ## License
 

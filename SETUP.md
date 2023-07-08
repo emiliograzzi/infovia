@@ -32,3 +32,15 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 * Google Fonts uses Github Releases to manage font families. If you feel your font project has hit a milestone, you must create a new release for it. In order to do this, go to the releases page and hit the "Draft a new release button". You must provide a tag number and title which can only be a decimal number e.g 0.100, 1.000 etc. For the body text, mention what has changed since the last release. Once you are done, hit the "Publish release" button. Here is an example which fulfills the requirements, https://github.com/m4rc1e/test-ufr-family/releases/tag/2.019. For more info regarding Github release, please see the official Github Release [documentation](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). **Please note that Github Actions must be able to build the fonts before you can make a release. Once you have made a release, the fonts and tests assets will be attached to the release automatically. This may take a while since the fonts and tests will be built from scratch so please be patient.**
 
 * Remove this section from the readme. :-)
+
+---
+
+## Changelog
+
+When you update your font (new version or new release), please report all notable changes here, with a date.
+[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
+Changelog example:
+
+**26 May 2021. Version 2.13**
+- MAJOR Font turned to a variable font.
+- SIGNIFICANT New Stylistic sets added.
