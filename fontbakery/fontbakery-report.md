@@ -31,7 +31,6 @@ Fontbakery version: 0.8.13
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=14] [code: http-in-license-info]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
 * ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
  [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain less than 40 CJK characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_not_enough_glyphs">com.google.fonts/check/cjk_not_enough_glyphs</a>)</summary><div>
@@ -455,7 +454,6 @@ greaterequal
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=14] [code: http-in-license-info]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
 * ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
  [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain less than 40 CJK characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_not_enough_glyphs">com.google.fonts/check/cjk_not_enough_glyphs</a>)</summary><div>
@@ -535,7 +533,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 483:
-less, greater
+greater, less
 
 Width = 496:
 equal, notequal
@@ -884,7 +882,6 @@ lessequal, greaterequal
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=14] [code: http-in-license-info]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
 * ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
  [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain less than 40 CJK characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_not_enough_glyphs">com.google.fonts/check/cjk_not_enough_glyphs</a>)</summary><div>
@@ -964,7 +961,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 482:
-less, greater
+greater, less
 
 Width = 503:
 equal, notequal
@@ -1160,7 +1157,6 @@ greaterequal
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=14] [code: http-in-license-info]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
 * ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
  [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain less than 40 CJK characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_not_enough_glyphs">com.google.fonts/check/cjk_not_enough_glyphs</a>)</summary><div>
@@ -1240,7 +1236,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 481:
-less, greater
+greater, less
 
 Width = 515:
 equal, notequal
@@ -1608,7 +1604,6 @@ greaterequal
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=14] [code: http-in-license-info]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
 * ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
  [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain less than 40 CJK characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_not_enough_glyphs">com.google.fonts/check/cjk_not_enough_glyphs</a>)</summary><div>
@@ -2060,7 +2055,6 @@ greaterequal
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=1, enc=0, name=14] [code: http-in-license-info]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
 * ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
  [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain less than 40 CJK characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_not_enough_glyphs">com.google.fonts/check/cjk_not_enough_glyphs</a>)</summary><div>
