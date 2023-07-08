@@ -5,3 +5,6 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
+Accademia di Belle Arti di Urbino
+Mohamed Gaber <gaber@gaberism.net>
+Emilio Grazzi <info@emiliograzzi.com>
