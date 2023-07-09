@@ -36,8 +36,8 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## Changelog
 
-**8 July 2023. Version 1.003**
-- Googlefont sumbission
+**8 July 2023. Version 1.004**
+- added zero.slashed feature 
 
 ## License
 

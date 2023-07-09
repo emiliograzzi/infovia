@@ -1123,6 +1123,10 @@ code = "    lookup ccmp_soft_dotted {
         sub iogonek' @CombiningTopAccents by dotlessi ogonekcomb;
     } ccmp_soft_dotted;";
 tag = ccmp;
+},
+{
+code = "sub zero by zero.slash;";
+tag = zero;
 }
 );
 fontMaster = (
@@ -63135,7 +63139,7 @@ value = "https://www.idmatter.eu/";
 },
 {
 key = versionString;
-value = "Version 1.003";
+value = "Version 1.004";
 },
 {
 key = copyrights;
@@ -65229,5 +65233,5 @@ O,
 };
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
