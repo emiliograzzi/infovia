@@ -121,7 +121,7 @@ Width = 476:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 534:
 approxequal
@@ -535,7 +535,7 @@ Width = 496:
 notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 526:
 approxequal
@@ -961,7 +961,7 @@ Width = 503:
 notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 528:
 approxequal
@@ -1234,7 +1234,7 @@ Width = 515:
 notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 533:
 approxequal
@@ -1686,7 +1686,7 @@ Width = 482:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 541:
 approxequal
@@ -2135,7 +2135,7 @@ Width = 480:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 539:
 approxequal
