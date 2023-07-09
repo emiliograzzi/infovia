@@ -49,11 +49,9 @@ Please check that these glyphs have the correct unicodes. [code: cjk-not-enough-
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dotbelowcomb.cap
+	- dotbelowcomb.cap 
 
-	- uni1E37.ss03 
-
-	- zero.slash
+	- uni1E37.ss03
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -117,13 +115,13 @@ Width = 475:
 less
 
 Width = 512:
-equal, notequal
+notequal, equal
 
 Width = 476:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 534:
 approxequal
@@ -472,11 +470,9 @@ Please check that these glyphs have the correct unicodes. [code: cjk-not-enough-
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dotbelowcomb.cap
+	- dotbelowcomb.cap 
 
-	- one.pnum 
-
-	- zero.slash
+	- one.pnum
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -533,13 +529,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 483:
-greater, less
+less, greater
 
 Width = 496:
-equal, notequal
+notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 526:
 approxequal
@@ -900,11 +896,9 @@ Please check that these glyphs have the correct unicodes. [code: cjk-not-enough-
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dotbelowcomb.cap
+	- dotbelowcomb.cap 
 
-	- one.pnum 
-
-	- zero.slash
+	- one.pnum
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -961,13 +955,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 482:
-greater, less
+less, greater
 
 Width = 503:
-equal, notequal
+notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 528:
 approxequal
@@ -1175,11 +1169,9 @@ Please check that these glyphs have the correct unicodes. [code: cjk-not-enough-
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dotbelowcomb.cap
+	- dotbelowcomb.cap 
 
-	- one.pnum 
-
-	- zero.slash
+	- one.pnum
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1236,13 +1228,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 481:
-greater, less
+less, greater
 
 Width = 515:
-equal, notequal
+notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 533:
 approxequal
@@ -1622,11 +1614,9 @@ Please check that these glyphs have the correct unicodes. [code: cjk-not-enough-
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dotbelowcomb.cap
+	- dotbelowcomb.cap 
 
-	- uni1E37.ss03 
-
-	- zero.slash
+	- uni1E37.ss03
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1690,13 +1680,13 @@ Width = 481:
 less
 
 Width = 501:
-equal, notequal
+notequal, equal
 
 Width = 482:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 541:
 approxequal
@@ -2073,11 +2063,9 @@ Please check that these glyphs have the correct unicodes. [code: cjk-not-enough-
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dotbelowcomb.cap
+	- dotbelowcomb.cap 
 
-	- uni1E37.ss03 
-
-	- zero.slash
+	- uni1E37.ss03
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2141,13 +2129,13 @@ Width = 479:
 less
 
 Width = 505:
-equal, notequal
+notequal, equal
 
 Width = 480:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 539:
 approxequal
