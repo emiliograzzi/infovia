@@ -121,7 +121,7 @@ Width = 476:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 534:
 approxequal
@@ -529,19 +529,19 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 483:
-less, greater
+greater, less
 
 Width = 496:
 notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 526:
 approxequal
 
 Width = 508:
-greaterequal, lessequal
+lessequal, greaterequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
@@ -955,13 +955,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 482:
-less, greater
+greater, less
 
 Width = 503:
 notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 528:
 approxequal
@@ -1228,13 +1228,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 481:
-less, greater
+greater, less
 
 Width = 515:
 notequal, equal
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 533:
 approxequal
@@ -1686,7 +1686,7 @@ Width = 482:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 541:
 approxequal
@@ -2135,7 +2135,7 @@ Width = 480:
 greater
 
 Width = 532:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 539:
 approxequal
