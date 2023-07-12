@@ -38,6 +38,8 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 **8 July 2023. Version 1.004**
 - added zero.slashed feature 
+**7 July 2023. Version 1.003**
+- initial commit
 
 ## License
 
