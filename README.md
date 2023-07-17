@@ -12,15 +12,13 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Femiliograzzi%2Finfovia%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Femiliograzzi%2Finfovia%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
-
-Don't hesitate to create images!
+Infovìa is a typeface designed for wayfinding and signage purposes. It features a high x-height, open terminals and an increasing contrast in heavier weights. The letterforms were designed to save horizontal space, with several open-type features to enhance usability and ergonomics in editorial and signage environments. 
 
 ![Sample Image](documentation/image1.png)
 
 ## About
 
-Infovia was developed by [ID Matter](www.idmatter.eu)
+Infovia is a spinoff from the typeface [Cairo](https://fonts.google.com/specimen/Cairo) and was developed by [ID Matter](www.idmatter.eu)
 
 ## Building
 
