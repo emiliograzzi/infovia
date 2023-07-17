@@ -18,7 +18,7 @@ Infovìa is a typeface designed for wayfinding and signage purposes. It features
 
 ## About
 
-Infovia is a spinoff from the typeface [Cairo](https://fonts.google.com/specimen/Cairo) and was developed by [ID Matter](www.idmatter.eu)
+Infovìa is a spinoff from the typeface [Cairo](https://fonts.google.com/specimen/Cairo) and was developed by [ID Matter](www.idmatter.eu)
 
 ## Building
 
@@ -42,7 +42,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is licensed under the SIL Open Font License, Version 1.1. with Reserved Font Name "Infovìa"
 This license is available with a FAQ at
 https://scripts.sil.org/OFL
 
