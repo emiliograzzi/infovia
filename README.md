@@ -12,7 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Femiliograzzi%2Finfovia%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Femiliograzzi%2Finfovia%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Infovìa is a typeface designed for wayfinding and signage purposes. It features a high x-height, open terminals and an increasing contrast in heavier weights. The letterforms were designed to save horizontal space, with several open-type features to enhance usability and ergonomics in editorial and signage environments. 
+Infovìa is a typeface designed for wayfinding and signage purposes. It features a high x-height, open terminals and an increasing contrast in heavier weights. The letterforms are designed to save horizontal space, with several open-type features to enhance usability and ergonomics in editorial and signage environments. 
 
 ![Sample Image](documentation/image1.png)
 
